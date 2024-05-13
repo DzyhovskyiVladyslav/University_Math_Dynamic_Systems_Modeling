@@ -1,0 +1,60 @@
+D:\c#\RGR\RGR\bin\Debug\RGR.exe.config
+D:\c#\RGR\RGR\bin\Debug\RGR.exe
+D:\c#\RGR\RGR\bin\Debug\RGR.pdb
+D:\c#\RGR\RGR\obj\Debug\RGR.csprojAssemblyReference.cache
+D:\c#\RGR\RGR\obj\Debug\RGR.Form1.resources
+D:\c#\RGR\RGR\obj\Debug\RGR.Properties.Resources.resources
+D:\c#\RGR\RGR\obj\Debug\RGR.csproj.GenerateResource.cache
+D:\c#\RGR\RGR\obj\Debug\RGR.csproj.CoreCompileInputs.cache
+D:\c#\RGR\RGR\obj\Debug\RGR.exe
+D:\c#\RGR\RGR\obj\Debug\RGR.pdb
+C:\Users\Vladyslav Dzyhovskyi\Desktop\RGR\RGR\bin\Debug\RGR.exe.config
+C:\Users\Vladyslav Dzyhovskyi\Desktop\RGR\RGR\bin\Debug\RGR.exe
+C:\Users\Vladyslav Dzyhovskyi\Desktop\RGR\RGR\bin\Debug\RGR.pdb
+C:\Users\Vladyslav Dzyhovskyi\Desktop\RGR\RGR\obj\Debug\RGR.csprojAssemblyReference.cache
+C:\Users\Vladyslav Dzyhovskyi\Desktop\RGR\RGR\obj\Debug\RGR.Form1.resources
+C:\Users\Vladyslav Dzyhovskyi\Desktop\RGR\RGR\obj\Debug\RGR.Properties.Resources.resources
+C:\Users\Vladyslav Dzyhovskyi\Desktop\RGR\RGR\obj\Debug\RGR.csproj.GenerateResource.cache
+C:\Users\Vladyslav Dzyhovskyi\Desktop\RGR\RGR\obj\Debug\RGR.csproj.CoreCompileInputs.cache
+C:\Users\Vladyslav Dzyhovskyi\Desktop\RGR\RGR\obj\Debug\RGR.exe
+C:\Users\Vladyslav Dzyhovskyi\Desktop\RGR\RGR\obj\Debug\RGR.pdb
+D:\Univer\kurs3\Samoletiki(Prodolzhenie)\Lab_3_2\RGR\RGR\obj\Debug\RGR.csprojAssemblyReference.cache
+D:\Univer\kurs3\Samoletiki(Prodolzhenie)\Lab_3_2\RGR\RGR\obj\Debug\RGR.Form1.resources
+D:\Univer\kurs3\Samoletiki(Prodolzhenie)\Lab_3_2\RGR\RGR\obj\Debug\RGR.Properties.Resources.resources
+D:\Univer\kurs3\Samoletiki(Prodolzhenie)\Lab_3_2\RGR\RGR\obj\Debug\RGR.csproj.GenerateResource.cache
+D:\Univer\kurs3\Samoletiki(Prodolzhenie)\Lab_3_2\RGR\RGR\obj\Debug\RGR.csproj.CoreCompileInputs.cache
+D:\Univer\kurs3\Samoletiki(Prodolzhenie)\Lab_3_2\RGR\RGR\obj\Debug\RGR.exe
+D:\Univer\kurs3\Samoletiki(Prodolzhenie)\Lab_3_2\RGR\RGR\obj\Debug\RGR.pdb
+D:\Univer\kurs3\Samoletiki(Prodolzhenie)\Lab_3_2\RGR\RGR\bin\Debug\RGR.exe.config
+D:\Univer\kurs3\Samoletiki(Prodolzhenie)\Lab_3_2\RGR\RGR\bin\Debug\RGR.exe
+D:\Univer\kurs3\Samoletiki(Prodolzhenie)\Lab_3_2\RGR\RGR\bin\Debug\RGR.pdb
+D:\Univer\kurs3\Samoletiki(Prodolzhenie)\Lab_4_1\RGR\RGR\obj\Debug\RGR.csprojAssemblyReference.cache
+D:\Univer\kurs3\Samoletiki(Prodolzhenie)\Lab_4_1\RGR\RGR\obj\Debug\RGR.Form1.resources
+D:\Univer\kurs3\Samoletiki(Prodolzhenie)\Lab_4_1\RGR\RGR\obj\Debug\RGR.Properties.Resources.resources
+D:\Univer\kurs3\Samoletiki(Prodolzhenie)\Lab_4_1\RGR\RGR\obj\Debug\RGR.csproj.GenerateResource.cache
+D:\Univer\kurs3\Samoletiki(Prodolzhenie)\Lab_4_1\RGR\RGR\obj\Debug\RGR.csproj.CoreCompileInputs.cache
+D:\Univer\kurs3\Samoletiki(Prodolzhenie)\Lab_4_1\RGR\RGR\obj\Debug\RGR.exe
+D:\Univer\kurs3\Samoletiki(Prodolzhenie)\Lab_4_1\RGR\RGR\obj\Debug\RGR.pdb
+D:\Univer\kurs3\Samoletiki(Prodolzhenie)\Lab_4_1\RGR\RGR\bin\Debug\RGR.exe.config
+D:\Univer\kurs3\Samoletiki(Prodolzhenie)\Lab_4_1\RGR\RGR\bin\Debug\RGR.exe
+D:\Univer\kurs3\Samoletiki(Prodolzhenie)\Lab_4_1\RGR\RGR\bin\Debug\RGR.pdb
+D:\Univer\kurs3\Samoletiki(Prodolzhenie)\Lab_4_2\RGR\RGR\bin\Debug\RGR.exe.config
+D:\Univer\kurs3\Samoletiki(Prodolzhenie)\Lab_4_2\RGR\RGR\bin\Debug\RGR.exe
+D:\Univer\kurs3\Samoletiki(Prodolzhenie)\Lab_4_2\RGR\RGR\bin\Debug\RGR.pdb
+D:\Univer\kurs3\Samoletiki(Prodolzhenie)\Lab_4_2\RGR\RGR\obj\Debug\RGR.csprojAssemblyReference.cache
+D:\Univer\kurs3\Samoletiki(Prodolzhenie)\Lab_4_2\RGR\RGR\obj\Debug\RGR.Form1.resources
+D:\Univer\kurs3\Samoletiki(Prodolzhenie)\Lab_4_2\RGR\RGR\obj\Debug\RGR.Properties.Resources.resources
+D:\Univer\kurs3\Samoletiki(Prodolzhenie)\Lab_4_2\RGR\RGR\obj\Debug\RGR.csproj.GenerateResource.cache
+D:\Univer\kurs3\Samoletiki(Prodolzhenie)\Lab_4_2\RGR\RGR\obj\Debug\RGR.csproj.CoreCompileInputs.cache
+D:\Univer\kurs3\Samoletiki(Prodolzhenie)\Lab_4_2\RGR\RGR\obj\Debug\RGR.exe
+D:\Univer\kurs3\Samoletiki(Prodolzhenie)\Lab_4_2\RGR\RGR\obj\Debug\RGR.pdb
+D:\Univer\kurs3\Samoletiki(Prodolzhenie)\4_3\RGR\RGR\obj\Debug\RGR.csprojAssemblyReference.cache
+D:\Univer\kurs3\Samoletiki(Prodolzhenie)\4_3\RGR\RGR\obj\Debug\RGR.Form1.resources
+D:\Univer\kurs3\Samoletiki(Prodolzhenie)\4_3\RGR\RGR\obj\Debug\RGR.Properties.Resources.resources
+D:\Univer\kurs3\Samoletiki(Prodolzhenie)\4_3\RGR\RGR\obj\Debug\RGR.csproj.GenerateResource.cache
+D:\Univer\kurs3\Samoletiki(Prodolzhenie)\4_3\RGR\RGR\obj\Debug\RGR.csproj.CoreCompileInputs.cache
+D:\Univer\kurs3\Samoletiki(Prodolzhenie)\4_3\RGR\RGR\obj\Debug\RGR.exe
+D:\Univer\kurs3\Samoletiki(Prodolzhenie)\4_3\RGR\RGR\obj\Debug\RGR.pdb
+D:\Univer\kurs3\Samoletiki(Prodolzhenie)\4_3\RGR\RGR\bin\Debug\RGR.exe.config
+D:\Univer\kurs3\Samoletiki(Prodolzhenie)\4_3\RGR\RGR\bin\Debug\RGR.exe
+D:\Univer\kurs3\Samoletiki(Prodolzhenie)\4_3\RGR\RGR\bin\Debug\RGR.pdb
